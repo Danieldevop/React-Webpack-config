@@ -1,0 +1,7 @@
+/* put your css here */
+
+body {
+	background: wheat;
+	display: flex;
+	justify-content: center;
+}
